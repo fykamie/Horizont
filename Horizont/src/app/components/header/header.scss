@@ -1,10 +1,13 @@
 .header {
     display: flex;
     flex-direction: row;
-    font-size: 3rem;
+    font-size: 5rem;
     justify-content: space-around;
     width: 100%;
     padding: 1rem;
     background-color: darkblue;
     color: bisque;
+    position: fixed;
+    top: 0;
+    left: 0;
 }
