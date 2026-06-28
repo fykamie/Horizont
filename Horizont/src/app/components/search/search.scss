@@ -1,0 +1,28 @@
+.search-container {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    position: fixed;
+    left: 0;
+    width: 100%;
+    top: 8rem;
+    height: 5rem;
+    padding: 1rem;
+    background: white;
+}
+
+.search-bar {
+    font-size: 4rem;
+    color: black;
+    height: 100%;
+    width: 100%;
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+
+.search-icon {
+    font-size: 4rem;
+    margin-right: 1rem;
+    cursor: pointer;
+}
